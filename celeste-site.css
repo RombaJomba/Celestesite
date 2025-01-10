@@ -23,3 +23,7 @@ div{
   margin: 0;
   background-color: white;
 }
+.tabb{
+  display: inline-block;
+  margin-left: 60;
+}
