@@ -13,8 +13,11 @@ h1{
   font-size: 40px;
 }
 p1{
-  padding: 10px;
   font-size: 15px;
+}
+p2{
+  font-size: 20px;
+  color: white;
 }
 div{
   padding: 30px;
