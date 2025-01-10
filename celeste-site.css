@@ -6,7 +6,8 @@ body{
 }
 h{
   position: relative;
-  left: 400px
+  left: 335px;
+  font-size: 60px;
 }
 h1{
   font-size: 40px;
